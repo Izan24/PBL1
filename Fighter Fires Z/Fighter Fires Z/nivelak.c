@@ -1588,7 +1588,7 @@ void initNivelak() {
 
 	arrayNivelak[10].arrayKarratu[1].x0 = 143;
 	arrayNivelak[10].arrayKarratu[1].y0 = 662;
-	arrayNivelak[10].arrayKarratu[1].x = 1237;
+	arrayNivelak[10].arrayKarratu[1].x = 1215;
 	arrayNivelak[10].arrayKarratu[1].y = 768;
 	arrayNivelak[10].arrayKarratu[1].ondoan = -1;
 
@@ -1603,7 +1603,7 @@ void initNivelak() {
 	arrayNivelak[10].arrayKarratu[3].x = 647;
 	arrayNivelak[10].arrayKarratu[3].y = 664;
 	arrayNivelak[10].arrayKarratu[3].ondoan = 1;
-
+    
 	arrayNivelak[10].arrayKarratu[4].x0 = 647;
 	arrayNivelak[10].arrayKarratu[4].y0 = 550;
 	arrayNivelak[10].arrayKarratu[4].x = 771;

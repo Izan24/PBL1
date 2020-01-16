@@ -1,0 +1,96 @@
+﻿  gameLoop.c
+  init.c
+  main.c
+  menu.c
+C:\Users\izan2\Desktop\Mu\PBL1\PBL1\Fighter Fires Z\Fighter Fires Z\gameLoop.c(76,20): warning C4553: "==": el resultado de la expresión no se usa. ¿Quiso decir "="?
+C:\Users\izan2\Desktop\Mu\PBL1\PBL1\Fighter Fires Z\Fighter Fires Z\menu.c(40,2): warning C4047: 'función': 'Mix_Chunk *' es distinto en los niveles de direccionamiento indirecto de 'Mix_Chunk *[2]'
+  nivelak.c
+  Generando código...
+C:\Users\izan2\Desktop\Mu\PBL1\PBL1\Fighter Fires Z\Fighter Fires Z\menu.c(40,2): warning C4024: 'Mix_PlayChannelTimed': tipos distintos para el parámetro formal y el parámetro real 2
+C:\Users\izan2\Desktop\Mu\PBL1\PBL1\Fighter Fires Z\Fighter Fires Z\init.c(229): warning C4715: 'init': no todas las rutas de acceso de control devuelven un valor
+C:\Users\izan2\Desktop\Mu\PBL1\PBL1\Fighter Fires Z\Fighter Fires Z\gameLoop.c(135): warning C4715: 'gameLoop': no todas las rutas de acceso de control devuelven un valor
+gameLoop.obj : error LNK2019: símbolo externo _SDL_RenderClear sin resolver al que se hace referencia en la función _gameLoop
+gameLoop.obj : error LNK2019: símbolo externo _SDL_RenderCopy sin resolver al que se hace referencia en la función _gameLoop
+gameLoop.obj : error LNK2019: símbolo externo _SDL_RenderPresent sin resolver al que se hace referencia en la función _gameLoop
+gameLoop.obj : error LNK2019: símbolo externo _SDL_Delay sin resolver al que se hace referencia en la función _gameLoop
+gameLoop.obj : error LNK2019: símbolo externo _spriteAnimation sin resolver al que se hace referencia en la función _gameLoop
+gameLoop.obj : error LNK2019: símbolo externo _rendBackground sin resolver al que se hace referencia en la función _gameLoop
+gameLoop.obj : error LNK2019: símbolo externo _balaMovimiento sin resolver al que se hace referencia en la función _gameLoop
+gameLoop.obj : error LNK2019: símbolo externo _spriteMovimiento sin resolver al que se hace referencia en la función _gameLoop
+gameLoop.obj : error LNK2019: símbolo externo _aplicarMugimenduTeklado sin resolver al que se hace referencia en la función _gameLoop
+gameLoop.obj : error LNK2019: símbolo externo _acabarConElDisparo sin resolver al que se hace referencia en la función _gameLoop
+gameLoop.obj : error LNK2019: símbolo externo _transicio sin resolver al que se hace referencia en la función _gameLoop
+gameLoop.obj : error LNK2019: símbolo externo _resetKontagarri sin resolver al que se hace referencia en la función _gameLoop
+gameLoop.obj : error LNK2019: símbolo externo _disparar sin resolver al que se hace referencia en la función _gameLoop
+gameLoop.obj : error LNK2019: símbolo externo _calcularOrientacio sin resolver al que se hace referencia en la función _gameLoop
+gameLoop.obj : error LNK2019: símbolo externo _colisionBalaJugador sin resolver al que se hace referencia en la función _gameLoop
+gameLoop.obj : error LNK2019: símbolo externo _talkatxen sin resolver al que se hace referencia en la función _gameLoop
+gameLoop.obj : error LNK2019: símbolo externo _chocarSpawner sin resolver al que se hace referencia en la función _gameLoop
+gameLoop.obj : error LNK2019: símbolo externo _comprobarAccionesMando sin resolver al que se hace referencia en la función _gameLoop
+gameLoop.obj : error LNK2019: símbolo externo _initSpawners sin resolver al que se hace referencia en la función _gameLoop
+init.obj : error LNK2001: símbolo externo _initSpawners sin resolver
+gameLoop.obj : error LNK2019: símbolo externo _setPlayerPos sin resolver al que se hace referencia en la función _gameLoop
+menu.obj : error LNK2001: símbolo externo _setPlayerPos sin resolver
+gameLoop.obj : error LNK2019: símbolo externo _colisionBalaMapa sin resolver al que se hace referencia en la función _gameLoop
+gameLoop.obj : error LNK2019: símbolo externo _ponerArma sin resolver al que se hace referencia en la función _gameLoop
+gameLoop.obj : error LNK2019: símbolo externo _pintarArmas sin resolver al que se hace referencia en la función _gameLoop
+gameLoop.obj : error LNK2019: símbolo externo _ebentuenDetekzioa sin resolver al que se hace referencia en la función _gameLoop
+gameLoop.obj : error LNK2019: símbolo externo _randomMap sin resolver al que se hace referencia en la función _gameLoop
+init.obj : error LNK2001: símbolo externo _randomMap sin resolver
+gameLoop.obj : error LNK2019: símbolo externo _resetPlayers sin resolver al que se hace referencia en la función _gameLoop
+gameLoop.obj : error LNK2019: símbolo externo _resetDisparos sin resolver al que se hace referencia en la función _gameLoop
+gameLoop.obj : error LNK2019: símbolo externo _blinkAnimacio sin resolver al que se hace referencia en la función _gameLoop
+gameLoop.obj : error LNK2019: símbolo externo _transizioZenbakiak sin resolver al que se hace referencia en la función _gameLoop
+gameLoop.obj : error LNK2019: símbolo externo _resetTeklauaEtaMandua sin resolver al que se hace referencia en la función _gameLoop
+gameLoop.obj : error LNK2019: símbolo externo _hilAnimazioa sin resolver al que se hace referencia en la función _gameLoop
+gameLoop.obj : error LNK2019: símbolo externo _calcularEjeJoystick sin resolver al que se hace referencia en la función _gameLoop
+init.obj : error LNK2019: símbolo externo _SDL_GetError sin resolver al que se hace referencia en la función _init
+init.obj : error LNK2019: símbolo externo _SDL_RWFromFile sin resolver al que se hace referencia en la función _init
+init.obj : error LNK2019: símbolo externo _SDL_FreeSurface sin resolver al que se hace referencia en la función _init
+init.obj : error LNK2019: símbolo externo _SDL_CreateWindow sin resolver al que se hace referencia en la función _init
+init.obj : error LNK2019: símbolo externo _SDL_SetWindowIcon sin resolver al que se hace referencia en la función _init
+init.obj : error LNK2019: símbolo externo _SDL_DestroyWindow sin resolver al que se hace referencia en la función _init
+menu.obj : error LNK2001: símbolo externo _SDL_DestroyWindow sin resolver
+init.obj : error LNK2019: símbolo externo _SDL_IsGameController sin resolver al que se hace referencia en la función _init
+init.obj : error LNK2019: símbolo externo _SDL_GameControllerOpen sin resolver al que se hace referencia en la función _init
+init.obj : error LNK2019: símbolo externo _SDL_CreateRenderer sin resolver al que se hace referencia en la función _init
+init.obj : error LNK2019: símbolo externo _SDL_CreateTextureFromSurface sin resolver al que se hace referencia en la función _init
+init.obj : error LNK2019: símbolo externo _SDL_QueryTexture sin resolver al que se hace referencia en la función _init
+init.obj : error LNK2019: símbolo externo _SDL_SetRenderDrawBlendMode sin resolver al que se hace referencia en la función _init
+init.obj : error LNK2019: símbolo externo _SDL_DestroyRenderer sin resolver al que se hace referencia en la función _init
+init.obj : error LNK2019: símbolo externo _SDL_Init sin resolver al que se hace referencia en la función _init
+init.obj : error LNK2019: símbolo externo _SDL_Quit sin resolver al que se hace referencia en la función _init
+menu.obj : error LNK2001: símbolo externo _SDL_Quit sin resolver
+init.obj : error LNK2019: símbolo externo _IMG_Load sin resolver al que se hace referencia en la función _init
+init.obj : error LNK2019: símbolo externo _TTF_Init sin resolver al que se hace referencia en la función _init
+init.obj : error LNK2019: símbolo externo _TTF_OpenFont sin resolver al que se hace referencia en la función _init
+init.obj : error LNK2019: símbolo externo _Mix_OpenAudio sin resolver al que se hace referencia en la función _init
+init.obj : error LNK2019: símbolo externo _Mix_LoadWAV_RW sin resolver al que se hace referencia en la función _init
+init.obj : error LNK2019: símbolo externo _Mix_LoadMUS sin resolver al que se hace referencia en la función _init
+init.obj : error LNK2019: símbolo externo _initMeteoro sin resolver al que se hace referencia en la función _init
+init.obj : error LNK2019: símbolo externo _initBackgroundTextures sin resolver al que se hace referencia en la función _init
+init.obj : error LNK2019: símbolo externo _initSpriteTexturak sin resolver al que se hace referencia en la función _init
+init.obj : error LNK2019: símbolo externo _initZutabe sin resolver al que se hace referencia en la función _init
+init.obj : error LNK2019: símbolo externo _initNumeros sin resolver al que se hace referencia en la función _init
+init.obj : error LNK2019: símbolo externo _initPuntuPantaila sin resolver al que se hace referencia en la función _init
+init.obj : error LNK2019: símbolo externo _initBlink sin resolver al que se hace referencia en la función _init
+init.obj : error LNK2019: símbolo externo _initTransNumbers sin resolver al que se hace referencia en la función _init
+init.obj : error LNK2019: símbolo externo _initKeia sin resolver al que se hace referencia en la función _init
+main.obj : error LNK2019: símbolo externo _resetGame sin resolver al que se hace referencia en la función _SDL_main
+main.obj : error LNK2019: símbolo externo _hasierakoAnim sin resolver al que se hace referencia en la función _SDL_main
+main.obj : error LNK2019: símbolo externo _destroyAll sin resolver al que se hace referencia en la función _SDL_main
+main.obj : error LNK2019: símbolo externo _creditos sin resolver al que se hace referencia en la función _SDL_main
+menu.obj : error LNK2019: símbolo externo _Mix_PlayChannelTimed sin resolver al que se hace referencia en la función _menu
+menu.obj : error LNK2019: símbolo externo _Mix_PlayMusic sin resolver al que se hace referencia en la función _menu
+menu.obj : error LNK2019: símbolo externo _Mix_HaltMusic sin resolver al que se hace referencia en la función _menu
+menu.obj : error LNK2019: símbolo externo _MenuPrincipal sin resolver al que se hace referencia en la función _menu
+menu.obj : error LNK2019: símbolo externo _MenuController sin resolver al que se hace referencia en la función _menu
+menu.obj : error LNK2019: símbolo externo _MenuDeComoJugar sin resolver al que se hace referencia en la función _menu
+MSVCRTD.lib(exe_main.obj) : error LNK2019: símbolo externo _main sin resolver al que se hace referencia en la función "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+.\lib\x64\SDL2.lib : warning LNK4272: el tipo de máquina de biblioteca 'x64' está en conflicto con el tipo de máquina de destino 'x86'
+.\lib\x64\SDL2main.lib : warning LNK4272: el tipo de máquina de biblioteca 'x64' está en conflicto con el tipo de máquina de destino 'x86'
+.\lib\x64\SDL2test.lib : warning LNK4272: el tipo de máquina de biblioteca 'x64' está en conflicto con el tipo de máquina de destino 'x86'
+.\lib\x64\SDL2_image.lib : warning LNK4272: el tipo de máquina de biblioteca 'x64' está en conflicto con el tipo de máquina de destino 'x86'
+.\lib\x64\SDL2_mixer.lib : warning LNK4272: el tipo de máquina de biblioteca 'x64' está en conflicto con el tipo de máquina de destino 'x86'
+.\lib\x64\SDL2_ttf.lib : warning LNK4272: el tipo de máquina de biblioteca 'x64' está en conflicto con el tipo de máquina de destino 'x86'
+C:\Users\izan2\Desktop\Mu\PBL1\PBL1\Fighter Fires Z\Debug\Fighter Fires Z.exe : fatal error LNK1120: 73 externos sin resolver

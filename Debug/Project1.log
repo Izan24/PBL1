@@ -1,0 +1,60 @@
+﻿funtzioak.obj : error LNK2019: símbolo externo _SDL_GetError sin resolver al que se hace referencia en la función _creditos
+init.obj : error LNK2001: símbolo externo _SDL_GetError sin resolver
+funtzioak.obj : error LNK2019: símbolo externo _SDL_FreeSurface sin resolver al que se hace referencia en la función _DrawText
+init.obj : error LNK2001: símbolo externo _SDL_FreeSurface sin resolver
+funtzioak.obj : error LNK2019: símbolo externo _SDL_DestroyWindow sin resolver al que se hace referencia en la función _destroyAll
+init.obj : error LNK2001: símbolo externo _SDL_DestroyWindow sin resolver
+menu.obj : error LNK2001: símbolo externo _SDL_DestroyWindow sin resolver
+funtzioak.obj : error LNK2019: símbolo externo _SDL_IsGameController sin resolver al que se hace referencia en la función _resetGame
+init.obj : error LNK2001: símbolo externo _SDL_IsGameController sin resolver
+funtzioak.obj : error LNK2019: símbolo externo _SDL_GameControllerOpen sin resolver al que se hace referencia en la función _resetGame
+init.obj : error LNK2001: símbolo externo _SDL_GameControllerOpen sin resolver
+funtzioak.obj : error LNK2019: símbolo externo _SDL_GameControllerGetAxis sin resolver al que se hace referencia en la función _calcularEjeJoystick
+funtzioak.obj : error LNK2019: símbolo externo _SDL_GameControllerGetButton sin resolver al que se hace referencia en la función _ebentuenDetekzioa
+funtzioak.obj : error LNK2019: símbolo externo _SDL_PollEvent sin resolver al que se hace referencia en la función _CuantosJugadores
+funtzioak.obj : error LNK2019: símbolo externo _SDL_CreateTextureFromSurface sin resolver al que se hace referencia en la función _DrawText
+init.obj : error LNK2001: símbolo externo _SDL_CreateTextureFromSurface sin resolver
+funtzioak.obj : error LNK2019: símbolo externo _SDL_QueryTexture sin resolver al que se hace referencia en la función _CuantosJugadores
+init.obj : error LNK2001: símbolo externo _SDL_QueryTexture sin resolver
+funtzioak.obj : error LNK2019: símbolo externo _SDL_SetTextureAlphaMod sin resolver al que se hace referencia en la función _hasierakoAnim
+funtzioak.obj : error LNK2019: símbolo externo _SDL_SetTextureBlendMode sin resolver al que se hace referencia en la función _hasierakoAnim
+funtzioak.obj : error LNK2019: símbolo externo _SDL_SetRenderDrawColor sin resolver al que se hace referencia en la función _hasierakoAnim
+funtzioak.obj : error LNK2019: símbolo externo _SDL_RenderClear sin resolver al que se hace referencia en la función _creditos
+gameLoop.obj : error LNK2001: símbolo externo _SDL_RenderClear sin resolver
+funtzioak.obj : error LNK2019: símbolo externo _SDL_RenderFillRect sin resolver al que se hace referencia en la función _hasierakoAnim
+funtzioak.obj : error LNK2019: símbolo externo _SDL_RenderCopy sin resolver al que se hace referencia en la función _CuantosJugadores
+gameLoop.obj : error LNK2001: símbolo externo _SDL_RenderCopy sin resolver
+funtzioak.obj : error LNK2019: símbolo externo _SDL_RenderPresent sin resolver al que se hace referencia en la función _CuantosJugadores
+gameLoop.obj : error LNK2001: símbolo externo _SDL_RenderPresent sin resolver
+funtzioak.obj : error LNK2019: símbolo externo _SDL_DestroyTexture sin resolver al que se hace referencia en la función _destroyAll
+funtzioak.obj : error LNK2019: símbolo externo _SDL_DestroyRenderer sin resolver al que se hace referencia en la función _destroyAll
+init.obj : error LNK2001: símbolo externo _SDL_DestroyRenderer sin resolver
+funtzioak.obj : error LNK2019: símbolo externo _SDL_Delay sin resolver al que se hace referencia en la función _creditos
+gameLoop.obj : error LNK2001: símbolo externo _SDL_Delay sin resolver
+funtzioak.obj : error LNK2019: símbolo externo _SDL_Quit sin resolver al que se hace referencia en la función _destroyAll
+init.obj : error LNK2001: símbolo externo _SDL_Quit sin resolver
+menu.obj : error LNK2001: símbolo externo _SDL_Quit sin resolver
+funtzioak.obj : error LNK2019: símbolo externo _IMG_Load sin resolver al que se hace referencia en la función _initBackgroundTextures
+init.obj : error LNK2001: símbolo externo _IMG_Load sin resolver
+funtzioak.obj : error LNK2019: símbolo externo _TTF_OpenFont sin resolver al que se hace referencia en la función _creditos
+funtzioak.obj : error LNK2019: símbolo externo _TTF_RenderText_Blended sin resolver al que se hace referencia en la función _DrawText
+funtzioak.obj : error LNK2019: símbolo externo _TTF_Quit sin resolver al que se hace referencia en la función _creditos
+funtzioak.obj : error LNK2019: símbolo externo _Mix_Quit sin resolver al que se hace referencia en la función _destroyAll
+funtzioak.obj : error LNK2019: símbolo externo _Mix_FreeChunk sin resolver al que se hace referencia en la función _destroyAll
+funtzioak.obj : error LNK2019: símbolo externo _Mix_FreeMusic sin resolver al que se hace referencia en la función _destroyAll
+funtzioak.obj : error LNK2019: símbolo externo _Mix_PlayChannelTimed sin resolver al que se hace referencia en la función _aplicarMugimenduTeklado
+menu.obj : error LNK2001: símbolo externo _Mix_PlayChannelTimed sin resolver
+init.obj : error LNK2019: símbolo externo _SDL_RWFromFile sin resolver al que se hace referencia en la función _init
+init.obj : error LNK2019: símbolo externo _SDL_CreateWindow sin resolver al que se hace referencia en la función _init
+init.obj : error LNK2019: símbolo externo _SDL_SetWindowIcon sin resolver al que se hace referencia en la función _init
+init.obj : error LNK2019: símbolo externo _SDL_CreateRenderer sin resolver al que se hace referencia en la función _init
+init.obj : error LNK2019: símbolo externo _SDL_SetRenderDrawBlendMode sin resolver al que se hace referencia en la función _init
+init.obj : error LNK2019: símbolo externo _SDL_Init sin resolver al que se hace referencia en la función _init
+init.obj : error LNK2019: símbolo externo _TTF_Init sin resolver al que se hace referencia en la función _init
+init.obj : error LNK2019: símbolo externo _Mix_OpenAudio sin resolver al que se hace referencia en la función _init
+init.obj : error LNK2019: símbolo externo _Mix_LoadWAV_RW sin resolver al que se hace referencia en la función _init
+init.obj : error LNK2019: símbolo externo _Mix_LoadMUS sin resolver al que se hace referencia en la función _init
+menu.obj : error LNK2019: símbolo externo _Mix_PlayMusic sin resolver al que se hace referencia en la función _menu
+menu.obj : error LNK2019: símbolo externo _Mix_HaltMusic sin resolver al que se hace referencia en la función _menu
+MSVCRTD.lib(exe_main.obj) : error LNK2019: símbolo externo _main sin resolver al que se hace referencia en la función "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\Rkolay\Documents\PBL01\PBLv1.0\Debug\PBL01.exe : fatal error LNK1120: 42 externos sin resolver

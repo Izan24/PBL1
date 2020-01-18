@@ -15,7 +15,7 @@ int main(int argc, char* argv[])
 	*	Se llama a la funcion que genera los creditos iniciales.	*
 	*																*
 	*****************************************************************/
-	creditos();
+	close_requested = creditos();
 
 	/****************************************************************
 	*																*

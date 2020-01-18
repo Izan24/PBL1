@@ -2143,7 +2143,7 @@ void calcularEjeJoystick() {
 	}
 }
 
-void creditos() {
+int creditos() {
 
 	/**
 	* EN esta funcion se llama a DrawText para crear el texto del principio
@@ -2212,6 +2212,9 @@ void creditos() {
 					break;
 
 				}
+				break;
+			case SDL_QUIT:
+				return close_requested = 99;
 				break;
 			}
 		}
@@ -2330,6 +2333,7 @@ void creditos() {
 	TTF_CloseFont(font);
 	TTF_Quit();
 	Mix_HaltMusic();
+	return 0;
 }
 
 void ranking()

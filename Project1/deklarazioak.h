@@ -127,7 +127,7 @@ extern void initKeia();
 extern void hasierakoAnim();
 extern void destroyAll();
 extern void DrawText(SDL_Surface* textSurface, TTF_Font* font, SDL_Color foregroundColor, SDL_Rect textLocation, int xpos, int ypos, int anchura, int altura);
-extern void creditos();
+extern int creditos();
 extern void calcularEjeJoystick();
 extern void initMusika();
 extern void ranking();

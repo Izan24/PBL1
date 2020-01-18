@@ -1,13 +1,1 @@
-﻿  funtzioak.c
-C:\Users\Rkolay\Documents\PBL01\PBLv1.0\PBL1\Project1\funtzioak.c(2167,2): warning C4550: expression evaluates to a function which is missing an argument list
-  gameLoop.c
-  init.c
-  main.c
-  menu.c
-  nivelak.c
-  Generating code
-  63 of 64 functions (98.4%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
-  Finished generating code
-  Project1.vcxproj -> C:\Users\Rkolay\Documents\PBL01\PBLv1.0\PBL1\x64\Release\PBL01.exe
+﻿  Project1.vcxproj -> C:\Users\Rkolay\Documents\PBL01\PBLv1.0\PBL1\x64\Release\PBL01.exe
